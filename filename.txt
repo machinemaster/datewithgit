@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F462-6E99
+
+ Directory of C:\Users\Minhaj\Desktop\git
+
+05/29/2020  12:25 AM    <DIR>          .
+05/29/2020  12:25 AM    <DIR>          ..
+05/29/2020  12:25 AM                 0 filename.txt
+05/29/2020  12:21 AM                 0 hey.txt
+               2 File(s)              0 bytes
+               2 Dir(s)  228,564,779,008 bytes free
